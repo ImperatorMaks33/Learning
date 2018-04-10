@@ -1,0 +1,87 @@
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+H:\2 курас\2 сем\средства разработки по\лаба3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+G:\флешка\4 семестр\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+G:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+G:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\флешка\4 семестр\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+G:\флешка\4 семестр\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+G:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+G:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+G:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+G:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+G:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+G:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+G:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+G:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+G:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+K:\флешка\4 семестр\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+K:\флешка\4 семестр\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+K:\флешка\4 семестр\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+K:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+K:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+K:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+K:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+K:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+K:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+K:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+K:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+K:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+K:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+K:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+K:\флешка\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\4 семестр\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+G:\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+G:\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\4 семестр\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+G:\4 семестр\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+G:\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+G:\4 семестр\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+G:\4 семестр\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+G:\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+G:\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+G:\4 семестр\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+G:\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+G:\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+G:\4 семестр\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\4 СЕМЕСТР\Пугин\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
